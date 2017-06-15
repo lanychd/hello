@@ -22,6 +22,9 @@ _a new study chalenges that **believe** that .. _
 ![Image of Yaktocat!](http://octodex.github.com/images/yaktocat.png)
 
 
+![Image of dog!](https://github.com/lanychd/hello/blob/master/dog.jpg)
+
+
 标题 | 内容 | 备注 | 
 
 ------|------|------| 
