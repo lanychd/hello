@@ -133,7 +133,7 @@ int cgiMain()
 	char Cno[4] = "\0";
 	int status = 0;
 
-	status = cgiFormString("Cno",  Cno, 32);
+	status = cgiFormString("Cno",  Cno, 4);
 	if (status != cgiFormSuccess)
 	{
 		fprintf(cgiOut, "get Cno error!\n");
